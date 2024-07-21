@@ -1,0 +1,76 @@
+{
+    "videos":[
+        
+            {
+                "video":"<video src='/public/assets/Learn-HTML-video-in-4-minutes!.mp4' controls autoplay id='1' poster='https://i.ytimg.com/vi/BAx2GaMW2qA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLB3-Yv9Opj0PpSA6elbkcn4uwd4cQ'></video>",
+                "staticVideo":"<video src='/public/assets/Learn-HTML-video-in-4-minutes!.mp4' id='1' poster='https://i.ytimg.com/vi/BAx2GaMW2qA/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLB3-Yv9Opj0PpSA6elbkcn4uwd4cQ'></video>",
+                "channelImage":"<img id='img' draggable='false' class='style-scope yt-img-shadow'  alt='' width='40' src='https://yt3.ggpht.com/ytc/AIdro_mPFVsxROj1dOtTWc9iNBwDYV4z42Q8LPokBSewiW9pCSg=s88-c-k-c0x00ffffff-no-rj'>",
+                "videoName":"Learn HTML video in 4 minutes! 🎥",
+                "channel_name_and_views_and_date":"Bro Code<br>42K views . 9 months ago",
+                "threeDots":"<svg xmlns='http://www.w3.org/2000/svg' enable-background='new 0 0 24 24' height='24' viewBox='0 0 24 24' width='24' focusable='false' ><path d='M12 16.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5zM10.5 12c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5-1.5.67-1.5 1.5zm0-6c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5-1.5.67-1.5 1.5z'></path></svg>",
+                "channel_name_and_subsrcibers":"Bro Code<br><span>1.94M subscribers</span>",
+                "id":1
+            }
+        ,
+        
+            {
+                "video":"<video src='/public/assets/Only The Best Developers Understand How This Works.mp4' controls autoplay id='2' poster='https://i.ytimg.com/vi/WqNqeMjd28I/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIGIofzAP&amp;rs=AOn4CLCQn-QJQRx8LR11wdoOV1RrJT8UoA'></video>",
+                "staticVideo":"<video src='/public/assets/Only The Best Developers Understand How This Works.mp4' id='2' poster='https://i.ytimg.com/vi/WqNqeMjd28I/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIGIofzAP&amp;rs=AOn4CLCQn-QJQRx8LR11wdoOV1RrJT8UoA'></video>",
+                "channelImage":"<img id='img' draggable='false' class='style-scope yt-img-shadow'  alt='' width='40' src='https://yt3.ggpht.com/ytc/AIdro_nO3F7DfVXaf6wsHPS_hF327ggeWUCwZSELb5DCWBL1aw=s68-c-k-c0x00ffffff-no-rj'>",
+                "videoName":"Only The Best Developers Understand How This Works",
+                "channel_name_and_views_and_date":"Web Dev Simplified<br>45K views . 4 days ago",
+                "threeDots":"<svg xmlns='http://www.w3.org/2000/svg' enable-background='new 0 0 24 24' height='24' viewBox='0 0 24 24' width='24' focusable='false' ><path d='M12 16.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5zM10.5 12c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5-1.5.67-1.5 1.5zm0-6c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5-1.5.67-1.5 1.5z'></path></svg>",
+                "channel_name_and_subsrcibers":"Web Dev Simplified<br><span>1.58M subscribers</span>",
+                "id":2
+            }
+        ,
+        
+            {
+                "video":"<video src='/public/assets/Donating $50,000 To Streamers With 0 Viewers.mp4' controls autoplay id='3' poster='https://i.ytimg.com/vi/ZNVlIMHS1sk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDYvXq1ArcgNhwWePIJdco8TCGz4w'></video>",
+                "staticVideo":"<video src='/public/assets/Donating $50,000 To Streamers With 0 Viewers.mp4' id='3' poster='https://i.ytimg.com/vi/ZNVlIMHS1sk/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDYvXq1ArcgNhwWePIJdco8TCGz4w'></video>",
+                "channelImage":"<img id='img' draggable='false' class='style-scope yt-img-shadow'  alt='' width='40' src='https://yt3.ggpht.com/ytc/AIdro_k0sp9BKU2zNQsOTW7amPJ4LH_qw1Hs0sW5lwIBN-StCIg=s68-c-k-c0x00ffffff-no-rj'>",
+                "videoName":"Donating $50,000 To Streamers With 0 Viewers",
+                "channel_name_and_views_and_date":"MrBeast Gaming<br>70M views . 3 years ago",
+                "threeDots":"<svg xmlns='http://www.w3.org/2000/svg' enable-background='new 0 0 24 24' height='24' viewBox='0 0 24 24' width='24' focusable='false' ><path d='M12 16.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5zM10.5 12c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5-1.5.67-1.5 1.5zm0-6c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5-1.5.67-1.5 1.5z'></path></svg>",
+                "channel_name_and_subsrcibers":"MrBeast Gaming<br><span>44.4M subscribers</span>",
+                "id":3
+            }
+        ,
+        
+            {
+                "video":"<video src='/public/assets/Requiem For A Dream - Kate Chruscicka - Electric Violinist  - Clint Mansell.mp4' controls autoplay id='4' poster='https://i.ytimg.com/vi/LaVPQe8Zf9o/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIGUoZTAP&amp;rs=AOn4CLCUb2OBIOARRSRauiJI4tIxM1LcbQ'></video>",
+                "staticVideo":"<video src='/public/assets/Requiem For A Dream - Kate Chruscicka - Electric Violinist  - Clint Mansell.mp4' id='4' poster='https://i.ytimg.com/vi/LaVPQe8Zf9o/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIGUoZTAP&amp;rs=AOn4CLCUb2OBIOARRSRauiJI4tIxM1LcbQ'></video>",
+                "channelImage":"<img id='img' draggable='false' class='style-scope yt-img-shadow' alt='' width='40' src='https://yt3.ggpht.com/ytc/AIdro_mBuvqfVy9hmDeGzCx-3EWBLT5yx6Y6Y4bjVxevfMosOg=s88-c-k-c0x00ffffff-no-rj'>",
+                "videoName":"Requiem For A Dream - Kate Chruscicka - Electric Violinist - Clint Mansell",
+                "channel_name_and_views_and_date":"KateViolin - UK Event & Wedding Violinist<br>18M views . 6 years ago",
+                "threeDots":"<svg xmlns='http://www.w3.org/2000/svg' enable-background='new 0 0 24 24' height='24' viewBox='0 0 24 24' width='24' focusable='false' ><path d='M12 16.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5zM10.5 12c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5-1.5.67-1.5 1.5zm0-6c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5-1.5.67-1.5 1.5z'></path></svg>",
+                "channel_name_and_subsrcibers":"KateViolin - UK Event & Wedding Violinist<br><span>72M subscribers</span>",
+                "id":4
+            }
+        ,
+        
+            {
+                "video":"<video src='/public/assets/Xcho - Ты и Я - Tik Tok Remix.mp4' id='5' controls autoplay poster='https://i.ytimg.com/vi/tmNpR_xQd8E/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLDKpI5IvqMjVfiIyHEw0w2gk9aytw'></video>",
+                "staticVideo":"<video src='/public/assets/Xcho - Ты и Я - Tik Tok Remix.mp4' id='5' poster='https://i.ytimg.com/vi/tmNpR_xQd8E/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLDKpI5IvqMjVfiIyHEw0w2gk9aytw'></video>",
+                "channelImage":"<img id='img' draggable='false' class='style-scope yt-img-shadow'  alt='' width='40' src='https://yt3.ggpht.com/KWLVgxwvfsqLvT5hrNxMlu45ktb_gqomIIwMXa3xO8axfZn0qOO5n02GnRKiwIV3EGqP6EoZfJ8=s88-c-k-c0x00ffffff-no-rj'>",
+                "videoName":"Xcho - Ты и Я | Tik Tok Remix",
+                "channel_name_and_views_and_date":"GANGESTER CITY<br>34M views . 1 year ago",
+                "threeDots":"<svg xmlns='http://www.w3.org/2000/svg' enable-background='new 0 0 24 24' height='24' viewBox='0 0 24 24' width='24' focusable='false' ><path d='M12 16.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5zM10.5 12c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5-1.5.67-1.5 1.5zm0-6c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5-1.5.67-1.5 1.5z'></path></svg>",
+                "channel_name_and_subsrcibers":"GANGESTER CITY<br><span>7.18M subscribers</span>",
+                "id":5
+            }
+        ,
+        
+            {
+                "video":"<video src='/public/assets/Do not Learn Programming this way.mp4' controls autoplay id='6' poster='https://i.ytimg.com/vi/ux3d_8Pp9QU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLBzEA6PlVYC89rb361ujuvFoFLl9w'></video>",
+                "staticVideo":"<video src='/public/assets/Do not Learn Programming this way.mp4' id='6' poster='https://i.ytimg.com/vi/ux3d_8Pp9QU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLBzEA6PlVYC89rb361ujuvFoFLl9w'></video>",
+                "channelImage":"<img id='img' draggable='false' class='style-scope yt-img-shadow' alt='' width='40' src='https://yt3.ggpht.com/bkVUAy3pe8iZNxGe8dMxp27mzGKY3bVBJK2q28M4zuau1oMD1d8irkJgk31fbVCsbfO4n7gg=s88-c-k-c0x00ffffff-no-rj'>",
+                "videoName":"🚨😱 Don't Learn Programming this way!",
+                "channel_name_and_views_and_date":"Adamos dot webdev<br>165K views . 5 months ago",
+                "threeDots":"<svg xmlns='http://www.w3.org/2000/svg' enable-background='new 0 0 24 24' height='24' viewBox='0 0 24 24' width='24' focusable='false' ><path d='M12 16.5c.83 0 1.5.67 1.5 1.5s-.67 1.5-1.5 1.5-1.5-.67-1.5-1.5.67-1.5 1.5-1.5zM10.5 12c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5-1.5.67-1.5 1.5zm0-6c0 .83.67 1.5 1.5 1.5s1.5-.67 1.5-1.5-.67-1.5-1.5-1.5-1.5.67-1.5 1.5z'></path></svg>",
+                "channel_name_and_subsrcibers":"Adamos dot webdev<br><span>2.61M subscribers</span>",
+                "id":6
+            }
+        ]
+    }
+
